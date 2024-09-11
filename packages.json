@@ -1,0 +1,14 @@
+[
+  {
+    "package": "condathis",
+    "url": "https://github.com/luciorq/condathis"
+  },
+  {
+    "package": "dockerthis",
+    "url": "https://github.com/luciorq/dockerthis"
+  },
+  {
+    "package": "isoformic",
+    "url": "https://github.com/luciorq/isoformic"
+  }
+]
