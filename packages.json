@@ -4,6 +4,10 @@
     "url": "https://github.com/luciorq/condathis"
   },
   {
+    "package": "rattlerthis",
+    "url": "https://github.com/luciorq/rattlerthis"
+  },
+  {
     "package": "isoformic",
     "url": "https://github.com/luciorq/isoformic"
   }
